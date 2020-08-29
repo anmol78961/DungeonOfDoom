@@ -1,5 +1,9 @@
 # DungeonOfDoom
 Java OOP's game
+
+GameLogic is the main class
+after you extract the files from the zip folder do change their location in the code
+
 These are the Instructions that you have to read before starting the game.
 
 Before entering using your own map in the game just add borders around it.
